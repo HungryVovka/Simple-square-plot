@@ -1,4 +1,4 @@
 # Simple-square-plot
-Simple matplotlib squre numbers scatter.
+Simple matplotlib square numbers scatter.
 
 <img src="squares_plot.png">
